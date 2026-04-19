@@ -3,9 +3,9 @@ import React from 'react';
 export default function Docs() {
   const credits = [
     {
-      name: 'Devrock',
-      avatar: 'https://raw.githubusercontent.com/devrock07/devrock07/refs/heads/main/assets/HeadIcon.png',
-      github: 'https://github.com/devrock07',
+      name: 'NoxlyDev',
+      avatar: 'https://cdn.discordapp.com/attachments/1374021682557227019/1495294539412279459/ic_launcher-playstore.png?ex=69e5b90f&is=69e4678f&hm=7cb93c7cb88e102725d46daa6bad3ad17073a33f2a073c43a5f55460aadca992',
+      github: 'https://github.com/NoxlyDev',
       discord: 'https://discord.com/users/959733702609494076'
     },
   ];
