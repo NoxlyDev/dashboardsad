@@ -8,12 +8,6 @@ export default function Docs() {
       github: 'https://github.com/devrock07',
       discord: 'https://discord.com/users/959733702609494076'
     },
-    {
-      name: 'Foil',
-      avatar: 'https://avatars.githubusercontent.com/u/206226445?s=400&u=1240c5691ad5e11790198e28bd506431a92afb6a&v=4',
-      github: 'https://github.com/aryanshrai03',
-      discord: 'https://discord.com/users/1252101579855630346'
-    }
   ];
 
   const sections = [
